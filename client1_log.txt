@@ -1,0 +1,124 @@
+I am client 1
+Training loss: 1.48
+Testing accuracy: 77.31%
+Receiving new global model
+I am client 1
+Training loss: 0.02
+Testing accuracy: 96.53%
+Receiving new global model
+I am client 1
+Training loss: 0.26
+Testing accuracy: 96.60%
+Receiving new global model
+I am client 1
+Training loss: 0.03
+Testing accuracy: 96.60%
+Receiving new global model
+I am client 1
+Training loss: 1.31
+Testing accuracy: 81.58%
+Receiving new global model
+I am client 1
+Training loss: 1.07
+Testing accuracy: 84.32%
+Receiving new global model
+I am client 1
+Training loss: 1.05
+Testing accuracy: 85.77%
+Receiving new global model
+I am client 1
+Training loss: 1.03
+Testing accuracy: 84.75%
+Receiving new global model
+I am client 1
+Training loss: 0.34
+Testing accuracy: 96.46%
+Receiving new global model
+I am client 1
+Training loss: 1.06
+Testing accuracy: 85.62%
+Receiving new global model
+I am client 1
+Training loss: 1.39
+Testing accuracy: 79.12%
+Receiving new global model
+I am client 1
+Training loss: 0.10
+Testing accuracy: 96.10%
+Receiving new global model
+I am client 1
+Training loss: 0.56
+Testing accuracy: 96.39%
+Receiving new global model
+I am client 1
+Training loss: 1.08
+Testing accuracy: 84.83%
+Receiving new global model
+I am client 1
+Training loss: 0.99
+Testing accuracy: 85.12%
+Receiving new global model
+I am client 1
+Training loss: 0.08
+Testing accuracy: 96.60%
+Receiving new global model
+I am client 1
+Training loss: 1.23
+Testing accuracy: 82.88%
+Receiving new global model
+I am client 1
+Training loss: 0.08
+Testing accuracy: 96.89%
+Receiving new global model
+I am client 1
+Training loss: 1.25
+Testing accuracy: 82.08%
+Receiving new global model
+I am client 1
+Training loss: 0.96
+Testing accuracy: 85.40%
+Receiving new global model
+I am client 1
+Training loss: 0.01
+Testing accuracy: 96.68%
+Receiving new global model
+I am client 1
+Training loss: 1.32
+Testing accuracy: 80.56%
+Receiving new global model
+I am client 1
+Training loss: 1.09
+Testing accuracy: 84.39%
+Receiving new global model
+I am client 1
+Training loss: 0.04
+Testing accuracy: 96.82%
+Receiving new global model
+I am client 1
+Training loss: 1.15
+Testing accuracy: 83.38%
+Receiving new global model
+I am client 1
+Training loss: 0.13
+Testing accuracy: 95.74%
+Receiving new global model
+I am client 1
+Training loss: 1.25
+Testing accuracy: 81.21%
+Receiving new global model
+I am client 1
+Training loss: 1.10
+Testing accuracy: 83.60%
+Receiving new global model
+I am client 1
+Training loss: 1.12
+Testing accuracy: 82.88%
+Receiving new global model
+I am client 1
+Training loss: 1.14
+Testing accuracy: 81.72%
+Receiving new global model
+I am client 1
+Training loss: 1.08
+Testing accuracy: 82.59%
+Receiving new global model
